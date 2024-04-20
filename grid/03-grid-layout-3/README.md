@@ -29,8 +29,8 @@ If you use the tools in the Advanced Grid Properties lesson you should be able t
 - The header and footer span across both columns
 - The sidebar only spans across the first column
 - The nav and article elements only span across the second column
-
-- The text elements in the sidebar are centered with grid
 - The article element should set grid columns using `repeat` along with the `auto-fit` and `minmax` properties
 - The article columns should have a minimum value of 250px and a maximum of 1fr unit
 - The article element has a gap of 15px
+
+- The text elements in the sidebar are centered with grid
